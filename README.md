@@ -1,6 +1,13 @@
 
 > このページを開く [https://coderdojonishinasuno.github.io/06-3_radioduck/](https://coderdojonishinasuno.github.io/06-3_radioduck/)
 
+## 説明
+Aボタンを押すと、同じ無線グループのmicro:bitにアヒルが転送されます。ところが、アヒルの機嫌次第で、アヒルが戻ってきてしまいます。あー、残念。もう一度Aボタンで送ってみましょう。
+micro:bitをふると、機嫌が良くなりやすくなります。時々ふって、機嫌をとりましょう。
+
+Bボタンで缶入りセットです。
+
+
 ## 拡張機能として使用
 
 このリポジトリは、MakeCode で **拡張機能** として追加できます。
