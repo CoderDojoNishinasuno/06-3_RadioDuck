@@ -2,6 +2,13 @@
 > このページを開く [https://coderdojonishinasuno.github.io/06-3_radioduck/](https://coderdojonishinasuno.github.io/06-3_radioduck/)
 
 ## 説明
+子供向けワークショップ向けの、micro:bit作品です。
+
+* 小学校高学年向け。二人で遊ぶことができます。
+* 必要なmicro:bitは2台。
+* 説明しながらコード入力で15分。
+
+## 操作方法
 Aボタンを押すと、同じ無線グループのmicro:bitにアヒルが転送されます。ところが、アヒルの機嫌次第で、アヒルが戻ってきてしまいます。あー、残念。もう一度Aボタンで送ってみましょう。
 micro:bitをふると、機嫌が良くなりやすくなります。時々ふって、機嫌をとりましょう。
 Bボタンで簡易リセットです。
